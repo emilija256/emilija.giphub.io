@@ -1,16 +1,16 @@
 <rss version="2.0">
 <channel>
 <title>Stylish home</title>
-<link>index.html</link>
+<link>https://emilija256.github.io/stylish/index.html</link>
 <description>Naša pomoć u uređenju vašeg prostora.</description>
 <item>
 <title>Projekti</title>
-<link>projekti.html</link>
+<link>https://emilija256.github.io/stylish/projekti.html</link>
 <description>Svakog meseca objavljujemo nove projekte.</description>
 </item>
 <item>
 <title>O nama</title>
-<link> o-nama.html</link>
+<link>https://emilija256.github.io/stylish/o-nama.html</link>
 <description>Pogledajte pogodnosti koje nudimo.</description>
 </item>
 </channel>
