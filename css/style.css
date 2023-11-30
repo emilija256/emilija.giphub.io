@@ -103,6 +103,7 @@ footer {
     width: 100%;
     text-align:left;
     margin-left: 10px;
+	font-family: 'Inconsolata', monospace;
 }
 .ikonice {
     width: 10%;
